@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 i am a boy
 i will not work today
 i dont want to be exploited.
+i will like to open a delivery company
+we shall do deliveries and car rentals.
